@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zhaoshengyu | 设计思维小组</title>
+    <link>https://duanlianjie1999.github.io/author/zhaoshengyu/</link>
+      <atom:link href="https://duanlianjie1999.github.io/author/zhaoshengyu/index.xml" rel="self" type="application/rss+xml" />
+    <description>zhaoshengyu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Fri, 05 Jun 2020 14:02:35 +0800</lastBuildDate>
+    <image>
+      <url>https://duanlianjie1999.github.io/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
+      <title>zhaoshengyu</title>
+      <link>https://duanlianjie1999.github.io/author/zhaoshengyu/</link>
+    </image>
+    
+    <item>
+      <title>Hypertrons</title>
+      <link>https://duanlianjie1999.github.io/project/hypertrons/</link>
+      <pubDate>Fri, 05 Jun 2020 14:02:35 +0800</pubDate>
+      <guid>https://duanlianjie1999.github.io/project/hypertrons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
